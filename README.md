@@ -1,4 +1,4 @@
-![Welcome](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=32&duration=3000&pause=500&color=58A6FF&width=435&lines=Welcome+to+%C3%96mer's+GitHub!+%F0%9F%8C%8C)
+![Welcome](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=32&duration=3000&pause=500&color=58A6FF&width=435&lines=Welcome+to+Ömer's+GitHub!+%F0%9F%8C%8C)
 
 ---
 
